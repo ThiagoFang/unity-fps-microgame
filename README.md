@@ -1,2 +1,3 @@
 # LINK TO GAME
-https://github.com/ThiagoFang/unity-fps-microgame
+
+https://play.unity.com/mg/fps/webgl-builds-391986
